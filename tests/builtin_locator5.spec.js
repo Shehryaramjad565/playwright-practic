@@ -5,7 +5,7 @@
 
 const { test, expect } = require('@playwright/test');
 
-test('locating submit button', async ({ page }) => {
+test('locating submit button .', async ({ page }) => {
   await page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
   
   // Locate the submit button using the 'button[type="submit"]' selector

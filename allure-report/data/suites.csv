@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1292","test1","chromium","Fri Jan 10 15:36:25 PKT 2025","passed","Fri Jan 10 15:36:26 PKT 2025","","allureReports37.spec.js","",""
+"","1316","test1@sanity","chromium","Fri Jan 10 15:36:23 PKT 2025","passed","Fri Jan 10 15:36:24 PKT 2025","","allureReports37.spec.js","",""
+"","1","test2@sanity","chromium","Fri Jan 10 15:36:25 PKT 2025","skipped","Fri Jan 10 15:36:25 PKT 2025","","allureReports37.spec.js","",""
